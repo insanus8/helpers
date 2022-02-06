@@ -11,5 +11,5 @@ function searchBinary(arr, target, key) {
             left = mid +1;
         }
     }
-    return 'note'
+    return false
 }
